@@ -404,7 +404,7 @@ img[alt="food-img"] {
 
 .signup-form-btn {
 	position: relative;
-	left: 1.5rem;
+	left: -1.5rem;
 	width: 4rem;
 	height: 4rem;
 	background: #333;
@@ -515,10 +515,25 @@ img[alt="food-img"] {
 
 @media (max-width: 550px) {
 	html {
-		font-size: 40%;
+		font-size: 30%;
 	}
 
 	.navbar-link {
 		margin: 0 .7rem;
+	}
+
+	.section-4-heading {
+		margin-left: 1rem;
+	}
+	.section-4-paragraph {
+		margin-left: 1rem;
+	}
+
+	.signup-form {
+		width: 65%;
+	}
+
+	.signup-form-btn {
+		left: 1rem;
 	}
 }
