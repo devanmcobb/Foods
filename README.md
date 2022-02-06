@@ -26,6 +26,13 @@ A responsive design with custom effects like a hidden navbar feature that smooth
 | Lemon Ginger  | ![#a79a2d](https://via.placeholder.com/10/a79a2d?text=+) #a79a2d |
 
 
+## Screenshots
+
+![App Screenshot](images/header.png)
+![App Screenshot](images/landing-page.png)
+![App Screenshot](images/popular-meals.png)
+![App Screenshot](images/gallery.png)
+![App Screenshot](images/footer.png)
 
 ## Questions
 
