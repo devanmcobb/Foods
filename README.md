@@ -21,9 +21,9 @@ A responsive design with custom effects like a hidden navbar feature that smooth
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Dark Charcoal | ![#333](https://via.placeholder.com/10/333?text=+) #333|
-| White | ![#fff](https://htmlcolors.com/hex/fff) #fff |
-| Black | ![#000](https://htmlcolors.com/hex/000) #000 |
-| Lemon Ginger  | ![#a79a2d](https://htmlcolors.com/hex/a79a2d) #a79a2d |
+| White | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff |
+| Black | ![#000](https://via.placeholder.com/10/000?text=+) #000 |
+| Lemon Ginger  | ![#a79a2d](https://via.placeholder.com/10/a79a2d?text=+) #a79a2d |
 
 
 
